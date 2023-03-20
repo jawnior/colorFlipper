@@ -1,5 +1,12 @@
-# colorFlipper
+# Color Flipper
 
-Hi! It's just a color flipper written in HTML, CSS and JS.
+## What is it?
 
-You can check the website here: https://aquamarine-macaron-5ffbfa.netlify.app/
+The color flipper is the website which background color changes after every single click of the button. Written in HTML, CSS and JavaScript.
+
+## Usage
+
+- Go on this website: https://aquamarine-macaron-5ffbfa.netlify.app/
+- Click the button "CLICK ME"!
+
+
