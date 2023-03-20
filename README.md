@@ -6,7 +6,7 @@ The color flipper is the website which background color changes after every sing
 
 ## Usage
 
-- Go on this website: https://aquamarine-macaron-5ffbfa.netlify.app/
-- Click the button "CLICK ME"!
+- Go on this website: https://aquamarine-macaron-5ffbfa.netlify.app/.
+- Click the button "CLICK ME!".
 
 
