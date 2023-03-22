@@ -1,12 +1,17 @@
 # Color Flipper
 
-## What is it?
+A simple website which changes the background color of the page after every single click of the button.
 
-The color flipper is the website which background color changes after every single click of the button. Written in HTML, CSS and JavaScript.
+Live demo [_here_](https://aquamarine-macaron-5ffbfa.netlify.app/)
+
+## Built with
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/css/default.asp)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 ## Usage
 
-- Go on this website: https://aquamarine-macaron-5ffbfa.netlify.app/.
-- Click the button "CLICK ME!".
+- Go to the website
+- Click the button *"CLICK ME!"*.
 
 
